@@ -1,0 +1,15 @@
+# Für alte NVIDIA GPUs (z.B. GTX 1050 Ti, GTX 1060, GTX 1070 etc.)
+# Diese Version unterstützt Compute Capability 6.1 und älter
+
+torch==2.1.2+cu118
+torchvision==0.16.2+cu118
+torchaudio==2.1.2+cu118
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+customtkinter
+opencv-python
+numpy
+mss
+Pillow
+pyyaml
+ultralytics

@@ -1,0 +1,14 @@
+{
+  "triggerbot_enabled": true,
+  "aim_assist_enabled": true,
+  "headshot_mode": true,
+  "confidence": 0.42,
+  "screenshot_size": 320,
+  "trigger_width": 45,
+  "trigger_height": 75,
+  "fire_delay": 15,
+  "aim_strength": 0.28,
+  "aa_movement_amp": 0.4,
+  "show_boxes": true,
+  "monitor_index": 1
+}

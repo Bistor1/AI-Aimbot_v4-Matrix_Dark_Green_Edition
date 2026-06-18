@@ -1,0 +1,15 @@
+# Für moderne NVIDIA GPUs (RTX 20xx und neuer) + AMD
+# Compute Capability 7.5 oder höher
+
+torch
+torchvision
+torchaudio
+--extra-index-url https://download.pytorch.org/whl/cu121
+
+customtkinter
+opencv-python
+numpy
+mss
+Pillow
+pyyaml
+ultralytics
